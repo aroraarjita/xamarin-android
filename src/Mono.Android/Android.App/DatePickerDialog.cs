@@ -19,7 +19,7 @@ namespace Android.App {
 			}
 #else
 			public int Month {
-				get { return monthOfYear; }
+				get { return MonthOfYear; }
 			}
 #endif
 		}
